@@ -2,7 +2,7 @@
 
 Vishwambhar Reddy Yennam (DA24M027)
 
-WandB Report: [](https://wandb.ai/da24m027-indian-institute-of-technology-madras/DA6401_Assignment3/reports/DA6401-Assignment-3--VmlldzoxMjg0NDk5OQ)
+WandB Report: [https://wandb.ai/da24m027-indian-institute-of-technology-madras/DA6401_Assignment3/reports/DA6401-Assignment-3--VmlldzoxMjg0NDk5OQ](https://wandb.ai/da24m027-indian-institute-of-technology-madras/DA6401_Assignment3/reports/DA6401-Assignment-3--VmlldzoxMjg0NDk5OQ)
 
 ## Overview
 This project implements and compares sequence-to-sequence (Seq2Seq) models for the task of transliterating Romanized Telugu text into native Telugu script. The project explores both vanilla Seq2Seq models and Seq2Seq models with attention mechanisms, leveraging PyTorch and Weights & Biases (wandb) for experiment tracking and hyperparameter sweeps.
